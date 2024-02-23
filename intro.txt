@@ -1,0 +1,100 @@
+Automation Framework
+--------------------------
+
+what is automation Framework?...
+Framework is used for organizing projected related files in proper order
+
+objective of Framework:
+--> Re-useability
+--> Maintainability
+
+Types of Frameworks
+-----------------------
+1. Pre-defined Frameworks / Ready made
+    --> Unittest
+    --> pytest
+    --> Behave
+    --> Robot Framework etc...
+2. User defined Frameworks / Customized Frameworks
+    --> Data Driven Framework
+    --> keyword driven Framework
+    --> modular Framework
+    --> Hybrid driven Framework
+
+Steps/Phases
+--------------
+1. Feasibility analysis/Research
+2. Choose test case for automation
+    Priority
+    ---------
+    1) Data driven test cases / Re-test cases
+    2) Sanity / Regression test cases
+    3) Other test cases
+3. Design and implement Framework
+4. Execution
+5. Maintanance
+
+=============================================================
+Project(Application/Product)
+-----------------------------
+Opencart(e-commerce)
+
+e-commerce
+-------------
+--> Frontend application(User/Customer)
+--> Backend application (Admins)
+
+Database: MySQL
+
+Technoligies
+-----------------------------
+Frontend: HTML, Bootstrap, PHP
+Backend: MySQL
+Application Server: Tomcat
+
+=================================================
+
+Step 1: Create new project & install required packages/plugins
+    Pytest - Python built-in unit test Framework (5.4.3 Prefered)
+    Selenium - selenium libraries
+    webdriver-manager - for drivers
+    pytest-html - reports
+    pytest-xdist - parallel testing
+    openpyxl - xl files
+    allure-pytest - reports
+
+    note: Create "requiremets.txt" file contains all packages and install it.
+
+Step 2: Create folder structure
+
+Step 3: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
